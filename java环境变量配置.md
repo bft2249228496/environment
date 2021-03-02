@@ -1,0 +1,3 @@
+## JAVA_HOME:C:\Program Files\Java\jdk1.8.0_261
+## Path:%JAVA_HOME%\bin;%JAVA_HOME%\jre\bin;
+## CLASSPATH:%JAVA_HOME%\lib\dt.jar;%JAVA_HOME%\lib\tools.jar
